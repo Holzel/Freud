@@ -1,0 +1,24 @@
+<monitors version="2">
+  <configuration>
+    <logicalmonitor>
+      <x>0</x>
+      <y>0</y>
+      <scale>1</scale>
+      <primary>yes</primary>
+      <monitor>
+        <monitorspec>
+          <connector>HDMI-0</connector>
+          <vendor>VIZ</vendor>
+          <product>E321VL</product>
+          <serial>UKHLAL0100001</serial>
+        </monitorspec>
+        <mode>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>29.998382568359375</rate>
+          <flag>interlace</flag>
+        </mode>
+      </monitor>
+    </logicalmonitor>
+  </configuration>
+</monitors>

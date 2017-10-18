@@ -1,0 +1,40 @@
+2017/10/18-12:44:29.041 1034 Reusing MANIFEST /home/holzel/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2017/10/18-12:44:29.041 1034 Recovering log #358
+2017/10/18-12:44:29.057 1034 Reusing old log /home/holzel/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000358.log 
+2017/10/18-12:45:30.110 1514 Level-0 table #362: started
+2017/10/18-12:45:30.312 1514 Level-0 table #362: 2863641 bytes OK
+2017/10/18-12:45:30.379 1514 Delete type=0 #358
+2017/10/18-12:45:30.381 1514 Compacting 4@0 + 2@1 files
+2017/10/18-12:45:30.572 1514 Generated table #363@0: 1 keys, 2863282 bytes
+2017/10/18-12:45:30.622 1514 Generated table #364@0: 2 keys, 343 bytes
+2017/10/18-12:45:30.622 1514 Compacted 4@0 + 2@1 files => 2863625 bytes
+2017/10/18-12:45:30.689 1514 compacted to: files[ 0 2 1 0 0 0 0 ]
+2017/10/18-12:45:30.689 1514 Delete type=2 #352
+2017/10/18-12:45:30.690 1514 Delete type=2 #362
+2017/10/18-12:45:30.690 1514 Delete type=2 #353
+2017/10/18-12:45:30.690 1514 Delete type=2 #357
+2017/10/18-12:45:30.715 1514 Delete type=2 #359
+2017/10/18-12:45:30.716 1514 Delete type=2 #355
+2017/10/18-12:45:32.938 1514 Level-0 table #366: started
+2017/10/18-12:45:33.119 1514 Level-0 table #366: 2863526 bytes OK
+2017/10/18-12:45:33.169 1514 Delete type=0 #361
+2017/10/18-12:46:35.223 1514 Level-0 table #368: started
+2017/10/18-12:46:35.374 1514 Level-0 table #368: 2863136 bytes OK
+2017/10/18-12:46:35.424 1514 Delete type=0 #365
+2017/10/18-13:45:30.267 1514 Level-0 table #370: started
+2017/10/18-13:45:30.434 1514 Level-0 table #370: 2864010 bytes OK
+2017/10/18-13:45:30.484 1514 Delete type=0 #367
+2017/10/18-13:49:54.769 1514 Level-0 table #372: started
+2017/10/18-13:49:54.976 1514 Level-0 table #372: 2863380 bytes OK
+2017/10/18-13:49:55.036 1514 Delete type=0 #369
+2017/10/18-13:49:55.039 1514 Compacting 4@0 + 2@1 files
+2017/10/18-13:49:55.253 1514 Generated table #373@0: 1 keys, 2863136 bytes
+2017/10/18-13:49:55.303 1514 Generated table #374@0: 2 keys, 342 bytes
+2017/10/18-13:49:55.303 1514 Compacted 4@0 + 2@1 files => 2863478 bytes
+2017/10/18-13:49:55.370 1514 compacted to: files[ 0 2 1 0 0 0 0 ]
+2017/10/18-13:49:55.370 1514 Delete type=2 #366
+2017/10/18-13:49:55.371 1514 Delete type=2 #364
+2017/10/18-13:49:55.371 1514 Delete type=2 #368
+2017/10/18-13:49:55.372 1514 Delete type=2 #372
+2017/10/18-13:49:55.373 1514 Delete type=2 #363
+2017/10/18-13:49:55.375 1514 Delete type=2 #370
