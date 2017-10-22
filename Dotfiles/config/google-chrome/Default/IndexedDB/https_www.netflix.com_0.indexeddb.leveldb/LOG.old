@@ -1,6 +1,0 @@
-2017/10/20-11:23:59.832 1512 Reusing MANIFEST /home/holzel/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
-2017/10/20-11:23:59.832 1512 Recovering log #4
-2017/10/20-11:23:59.991 1512 Reusing old log /home/holzel/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000004.log 
-2017/10/20-12:58:35.776 1822 Level-0 table #8: started
-2017/10/20-12:58:35.909 1822 Level-0 table #8: 2002256 bytes OK
-2017/10/20-12:58:35.949 1822 Delete type=0 #4
